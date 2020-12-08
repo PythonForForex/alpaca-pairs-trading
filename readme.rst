@@ -2,7 +2,7 @@
 Pairs Trading - Strategy Deployment Guide - alpaca.markets/learn
 ================================================================
 
-This is the code used in the article: **Pairs Trading - Strategy Deployment Guide** published on the `alpaca.markets/learn<https://alpaca.markets/learn>`_ blog. The article can be found here - https://alpaca.markets/learn/pairs-trading/
+This is the code used in the article: **Pairs Trading - Strategy Deployment Guide** published on the `alpaca.markets/learn  <https://alpaca.markets/learn>`_ blog. The article can be found here - https://alpaca.markets/learn/pairs-trading/
 
 This guide was created on behalf of AlgoTrading101.com
 
